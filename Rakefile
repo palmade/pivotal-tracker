@@ -12,7 +12,7 @@ begin
     gem.add_dependency 'rest-client', '~> 1.6.0'
     gem.add_dependency 'happymapper', '>= 0.3.2'
     gem.add_dependency 'builder'
-    gem.add_dependency 'nokogiri', '~> 1.4.3.1'
+    gem.add_dependency 'nokogiri', '~> 1.4.0'
     
     gem.add_development_dependency 'rspec'
     gem.add_development_dependency 'bundler', '>= 0.9.26'
